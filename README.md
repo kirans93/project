@@ -371,3 +371,5 @@ Visit http://localhost:8000/ in your browser, and you should be able to create, 
 
 In this tutorial, you've learned how to create a Django CRUD project using function-based views. You can further enhance your project by adding features like authentication, pagination, or search functionality. Django's flexibility and extensive ecosystem make it a great choice
 
+#   p r o j e c t  
+ 
